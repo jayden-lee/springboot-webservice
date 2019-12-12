@@ -33,6 +33,7 @@ dependencies {
     compile('com.h2database:h2')
     compile('org.springframework.boot:spring-boot-starter-mustache')
     compile("org.mariadb.jdbc:mariadb-java-client")
+    compile('org.springframework.boot:spring-boot-starter-oauth2-client')
 
     annotationProcessor ('org.projectlombok:lombok:1.18.10')
 
