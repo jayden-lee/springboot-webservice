@@ -9,4 +9,6 @@
 .idea/misc.xml
 .idea/vcs.xml
 
+/build/
+
 application-oauth.properties
