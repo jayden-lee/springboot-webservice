@@ -14,3 +14,15 @@ sudo service codedeploy-agent stauts
 cd /opt/codedeploy-agent/deployment-root
 cd /deployment-logs
 ```
+
+## NGINX
+
+### Installing NGINX
+```
+sudo yum install nginx
+```
+
+### Run NGINX
+```
+sudo service nginx start
+```
